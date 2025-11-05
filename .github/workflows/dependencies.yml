@@ -1,4 +1,4 @@
-name: Checkout Example
+name: Dependencies
 
 on:
  workflow_dispatch:
